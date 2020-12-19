@@ -1,4 +1,4 @@
 One Year Of Rust
 ================
 
-Me exploring rust in 2021
+This is my personal crash course in Rust.
