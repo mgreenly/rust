@@ -12,6 +12,7 @@ fn main() {
 
     }
 
+    // else is optional
     if (a == 7) && true {
      a = 1;
     }
