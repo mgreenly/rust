@@ -1,4 +1,4 @@
-One Year Of Rust
+Misc Rust Stuff
 ================
 
-This is my personal crash course in Rust.
+Me playing with Rust.
